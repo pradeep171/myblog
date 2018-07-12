@@ -88,3 +88,6 @@ div#box{
     background-color: maroon;
     color: white;
 }
+body#cont{
+    background-color: darkgray;
+}
